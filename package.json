@@ -1,0 +1,15 @@
+{
+  "name": "slack-pig",
+  "version": "1.0.0",
+  "description": "A slack bot built for pigs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lesterpig",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^2.0.43",
+    "slackbots": "^0.4.0"
+  }
+}
